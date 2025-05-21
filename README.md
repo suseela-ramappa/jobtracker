@@ -20,10 +20,5 @@ https://job-tracker-on-react.netlify.app/
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Framer Motion](https://www.framer.com/motion/)
 
-## 📦 Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/jobtrack.git
-   cd jobtrack
 
